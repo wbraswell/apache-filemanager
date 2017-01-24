@@ -1,0 +1,54 @@
+Return-Path: philip.collins@unh.edu
+Received: from mip.hushmail.com (LHLO smtp1.hushmail.com) (65.39.178.78) by
+ server with LMTP; Fri, 20 Jan 2017 18:28:57 +0000 (UTC)
+Received: from smtp1.hushmail.com (localhost [127.0.0.1])
+	by smtp1.hushmail.com (Postfix) with SMTP id 042624038C
+	for <william.braswell@autoparallel.com>; Fri, 20 Jan 2017 18:28:57 +0000 (UTC)
+X-Hush-Verified-Domain: unh.edu
+X-Hush-Real-Recipient: william.braswell@autoparallel.com
+Received: from mx0b-0020ca01.pphosted.com (unknown [148.163.152.91])
+	by smtp1.hushmail.com (Postfix) with ESMTP
+	for <william.braswell@autoparallel.com>; Fri, 20 Jan 2017 18:28:54 +0000 (UTC)
+Received: from pps.filterd (m0094646.ppops.net [127.0.0.1])
+	by mx0b-0020ca01.pphosted.com (8.16.0.20/8.16.0.20) with SMTP id v0KICUGJ003764
+	for <william.braswell@autoparallel.com>; Fri, 20 Jan 2017 13:28:52 -0500
+Received: from exchange.unh.edu (drax.ad.unh.edu [132.177.152.230])
+	by mx0b-0020ca01.pphosted.com with ESMTP id 27yfbtepc2-3
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA384 bits=256 verify=NOT)
+	for <william.braswell@autoparallel.com>; Fri, 20 Jan 2017 13:28:52 -0500
+Received: from groot.ad.unh.edu (132.177.152.231) by drax.ad.unh.edu
+ (132.177.152.230) with Microsoft SMTP Server (TLS) id 15.0.1156.6; Fri, 20
+ Jan 2017 13:28:51 -0500
+Received: from groot.ad.unh.edu ([132.177.152.231]) by groot.ad.unh.edu
+ ([132.177.152.231]) with mapi id 15.00.1156.000; Fri, 20 Jan 2017 13:28:51
+ -0500
+From: "Collins, Philip" <Philip.Collins@unh.edu>
+To: "William N. Braswell, Jr." <william.braswell@autoparallel.com>
+Subject: Re: Apache::FileManager Copyright
+Thread-Topic: Apache::FileManager Copyright
+Thread-Index: AQHSc0TP1uy0EpuyWkGpRSSp/JBnW6FBr3Hh
+Date: Fri, 20 Jan 2017 18:28:50 +0000
+Message-ID: <1484936930198.7914@unh.edu>
+References: <20170120165711.029BBA0145@smtp.hushmail.com>
+In-Reply-To: <20170120165711.029BBA0145@smtp.hushmail.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [132.177.152.81]
+Content-Type: multipart/mixed; boundary="_004_14849369301987914unhedu_"
+MIME-Version: 1.0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2017-01-20_12:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 priorityscore=1501
+ malwarescore=0 suspectscore=0 phishscore=0 bulkscore=0 spamscore=0
+ clxscore=1011 lowpriorityscore=0 impostorscore=0 adultscore=0
+ classifier=spam adjust=0 reason=mlx scancount=1 engine=8.0.1-1612050000
+ definitions=main-1701200241
+
+
+Philip.Collins@unh.edu / 603.862.7038
+UNH Research Computing Center
+My Availability: https://x.sr.unh.edu/myavail/?user=pmc2
